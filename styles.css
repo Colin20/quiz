@@ -1,0 +1,51 @@
+body{
+	background-color: #a8aeb5;
+}
+
+h1{
+	font-size: 14px;
+	background-color: white; 
+	border:3px solid black;
+}
+
+h1.sports{
+	font-size: 20px;
+}
+
+form{	
+	margin: 0 auto;
+}
+
+.con {
+	width: 40%;
+	margin: 0 auto;
+}
+
+img {
+	width: 200px;
+}
+
+.second {
+	float: left;
+	width: 10%;
+}
+
+.second .image1 {
+	margin-top: 300px;
+}
+
+.image2 {
+	float: right;
+	position: absolute;
+	top: 10px;
+	left: 1200px;
+}
+
+.image3 {
+	float: right;
+	position: absolute;
+	bottom: 100px;
+	left: 1170px;
+	width:18%;
+	  
+}
